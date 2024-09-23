@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# APP DEMO
+Using design From:
 
-A few resources to get you started if this is your first Flutter project:
+![alt tag](https://www.figma.com/design/NcRdyhtuAOE5c2QaB1Ur1N/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+IOS:
+![alt tag](https://raw.githubusercontent.com/JackNguyenIT/app_training_flutter/main/screenshots/ios.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Android:
+![alt tag](https://raw.githubusercontent.com/JackNguyenIT/app_training_flutter/main/screenshots/android.gif)
